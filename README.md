@@ -31,3 +31,6 @@
 <img src="https://komarev.com/ghpvc/?username=aimansam&label=PROFILE+VIEWS&color=4A0E16&style=flat-square">
 
 </div>
+
+GITHUB SUMMARY:
+This guy was a web developer and bug hunter back in early year to make some money but now locking in on offensive security. 👀 <br>
