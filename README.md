@@ -33,4 +33,4 @@
 </div>
 
 GITHUB SUMMARY: <br>
-This guy was a web developer and bug hunter back in early year to make some money but now locking in on offensive security. 👀 <br>
+This guy was a web developer and bug hunter back in early year to make some money but <br> now back in track git push offensive security projects. 👀 <br>
