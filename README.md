@@ -32,5 +32,5 @@
 
 </div>
 
-GITHUB SUMMARY:
+GITHUB SUMMARY: <br>
 This guy was a web developer and bug hunter back in early year to make some money but now locking in on offensive security. 👀 <br>
