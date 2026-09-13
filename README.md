@@ -19,19 +19,6 @@
 
 <br><br>
 
-
-## 🩸 OxBlood
-
-### Operational Exercises & Benchmarking for Live Offensive Operations & Defense
-
-`Proxmox` • `Cyber Drill` • `Attack & Defence` • `CTF`
-
-<br>
-
-> A student-focused cyber adversary drill platform for realistic offensive and defensive security training.
-
----
-
 ## 🏆 Certifications & Achievements
 
 <p>
