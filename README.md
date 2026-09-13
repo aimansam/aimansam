@@ -1,3 +1,6 @@
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,python,bash,js,html,css" />
+
+<br>
 <div align="center">
 
 <pre>
@@ -15,9 +18,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,python,bash,js,html,css" />
-
-<br><br>
+<br>
 
 ## 🏆 Certifications & Achievements
 
