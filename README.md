@@ -12,7 +12,7 @@
 ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=8A1C2B&center=true&vCenter=true&width=600&lines=SECURING+DEVICES;BY;BREAKING+IT" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2500&pause=300&color=8A1C2B&center=true&vCenter=true&width=600&lines=SECURING+DEVICES;BY;BREAKING+IT" />
 
 <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,python,bash,js,html,css" />
 
