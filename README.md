@@ -24,7 +24,7 @@
 <p>
 <img src="https://img.shields.io/badge/HTB-CPTS-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000">
 <img src="https://img.shields.io/badge/CEH-Certified-8A1C2B?style=for-the-badge">
-<img src="https://img.shields.io/badge/CTF-Player-4A0E16?style=for-the-badge">
+<img src="https://img.shields.io/badge/Bug-Hunter-4A0E16?style=for-the-badge">
 </p>
 
 <br>
