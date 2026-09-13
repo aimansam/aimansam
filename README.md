@@ -19,27 +19,6 @@
 
 <br><br>
 
----
-
-## ⚔️ Offensive Security
-
-<pre>
-              ┌───────────────────┐
-              │ Offensive Security│
-              └─────────┬─────────┘
-                        │
-          ┌─────────────┼─────────────┐
-          │             │             │
-          ▼             ▼             ▼
-    Pentesting         CTF        Cyber Range
-          │             │             │
-          └─────────────┴─────────────┘
-                        │
-                        ▼
-                   🩸 OxBlood
-</pre>
-
----
 
 ## 🩸 OxBlood
 
