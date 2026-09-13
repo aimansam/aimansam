@@ -27,8 +27,6 @@
 <img src="https://img.shields.io/badge/CTF-Player-4A0E16?style=for-the-badge">
 </p>
 
-🥈 **2nd Place — UM Cybersecurity Summit 2026 Attack & Defence**
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=aimansam&label=PROFILE+VIEWS&color=4A0E16&style=flat-square">
