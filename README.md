@@ -1,8 +1,8 @@
+
+<div align="center">
 <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,python,bash,js,html,css" />
 
 <br>
-<div align="center">
-
 <pre>
  █████╗ ██╗███╗   ███╗ █████╗ ███╗   ██╗
 ██╔══██╗██║████╗ ████║██╔══██╗████╗  ██║
