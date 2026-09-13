@@ -8,7 +8,7 @@
 ██║  ██║██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
 ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
-        Offensive Security • CTF • Cyber Range
+        Identify • Exploit • Pwned
 </pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=8A1C2B&center=true&vCenter=true&width=600&lines=CPTS+%7C+CEH+%7C+Bug+Hunter;Offensive+Security;Building+OxBlood" />
@@ -48,24 +48,15 @@
 
 ## 📊 GitHub Activity
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aimansam&theme=github-compact&hide_border=true&area=true">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aimansam&show_icons=true&theme=github_dark&hide_border=true" />
 
-<br>
-
----
-
-## 🐍 Contributions
-
-<img src="https://raw.githubusercontent.com/aimansam/aimansam/output/github-contribution-grid-snake-dark.svg">
-
-<br><br>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimansam&layout=compact&theme=github_dark&hide_border=true" />
 ---
 
 <pre>
 ┌──────────────────────────────────────────────┐
 │                                              │
-│     HACK  →  LEARN  →  BUILD  →  REPEAT     │
+│     EXPLOIT  →  FAILED  →  PIVOT  →  PWNED   │
 │                                              │
 └──────────────────────────────────────────────┘
 </pre>
