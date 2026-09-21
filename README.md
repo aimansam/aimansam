@@ -13,7 +13,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2500&pause=50&color=8A1C2B&center=true&vCenter=true&width=600&lines=SECURING+DEVICES;BY;BREAKING+IT" />
 
-<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,python,bash,powershell,rust,c,c++" />
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,python,bash,powershell,rust,c" />
 
 <br>
 <br>
@@ -23,11 +23,10 @@
 <img src="https://img.shields.io/badge/CEH-Certified-8A1C2B?style=for-the-badge">
 <img src="https://img.shields.io/badge/Top%201%25-TryHackMe-0075E4?style=for-the-badge&logo=tryhackme">
 <img src="https://img.shields.io/badge/Bughunter-4A0E16?style=for-the-badge">
-<img src="https://komarev.com/ghpvc/?username=aimansam&label=PROFILE+VIEWS&color=4A0E16&style=flat-square">
 </p>
 
 <br>
-
+<img src="https://komarev.com/ghpvc/?username=aimansam&label=PROFILE+VIEWS&color=4A0E16&style=flat-square">
 ### Top 1% TryHackMe • 3rd place Bingo CTF • CPTS, CEHv13 • Building 10 CTF challenges
 
 </div>
