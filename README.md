@@ -28,7 +28,6 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=aimansam&label=PROFILE+VIEWS&color=4A0E16&style=flat-square">
 <br>
-### Top 1% TryHackMe • 3rd place Bingo CTF • CPTS, CEHv13 • Building 10 CTF challenges
 
 </div>
 
