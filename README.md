@@ -35,7 +35,7 @@
 
 ## About Me
 
-Junior Penetration Tester and Security Engineer. Top 1% globally on TryHackMe (350+ rooms, ranked 44th in Malaysia). 3rd place Bingo CTF 2025 out of 50 teams. CPTS and CEHv13 certified. Currently completing Bachelor of Computer Science (Cybersecurity) at UNITEN with 3.80 GPA.
+Junior Penetration Tester and Security Engineer. Top 1% globally on TryHackMe (350+ rooms, ranked 44th in Malaysia). 3rd place Bingo CTF 2025. CPTS and CEHv13 certified. Currently completing Bachelor of Computer Science (Cybersecurity) at UNITEN with 3.80 GPA.
 
 I build tools that test security — both offensive and defensive — and break things to understand how they hold up. Zero trust by default.
 
