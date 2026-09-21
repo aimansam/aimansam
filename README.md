@@ -74,9 +74,7 @@ Currently focused on:
 | [divideCTF-lazydev2](https://github.com/aimansam/divideCTF-lazydev2) | divideCTF web challenge — developer workflow security (variant 2). |
 | [divideCTF-cybercorp1](https://github.com/aimansam/divideCTF-cybercorp1) | divideCTF web challenge — corporate environment web exploitation. |
 | [divideCTF-cybercorp2](https://github.com/aimansam/divideCTF-cybercorp2) | divideCTF web challenge — corporate environment web exploitation (variant 2). |
-| [divideCTF-alphazer0](https://github.com/aimansam/divideCTF-alphazer0) | divideCTF web challenge — zero-knowledge web exploitation. |
 | [web-vuln-scanner](https://github.com/aimansam/web-vuln-scanner) | Lightweight web vulnerability scanner — SQLi, XSS, path traversal, sensitive files, session handling. |
-| [phishing-toolkit](https://github.com/aimansam/phishing-toolkit) | Phishing email analysis toolkit — parse headers, body, URLs, attachments for indicators. |
 
 ### 🟢 Security Tooling
 
@@ -110,6 +108,7 @@ Currently focused on:
 | Project | Description |
 |---------|-------------|
 | [ukhuwah-siber](https://github.com/aimansam/ukhuwah-siber) | Discord bot for cybersecurity community engagement with minigames. |
+| [phishing-toolkit](https://github.com/aimansam/phishing-toolkit) | Phishing email analysis toolkit — parse headers, body, URLs, attachments for indicators. |
 | [portfolio](https://github.com/aimansam/portfolio) | Personal portfolio — junior pentester & web developer showcase with security writeups, 9 projects, and Decap CMS-powered blog. Live at [portfolio.aimansam.my](https://portfolio.aimansam.my). |
 
 _Full repo list: [aimansam GitHub](https://github.com/aimansam?tab=repositories)_
