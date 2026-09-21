@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/HTB-CPTS-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000">
 <img src="https://img.shields.io/badge/CEH-Certified-8A1C2B?style=for-the-badge">
 <img src="https://img.shields.io/badge/Top%201%25-TryHackMe-0075E4?style=for-the-badge&logo=tryhackme">
-<img src="https://img.shields.io/badge/Bughunter-4A0E16?style=for-the-badge">
+<img src="https://img.shields.io/badge/2nd UMCS CTF-4A0E16?style=for-the-badge">
 </p>
 
 <br>
@@ -33,7 +33,7 @@
 
 ---
 
-## About
+## About Me
 
 Junior Penetration Tester and Security Engineer. Top 1% globally on TryHackMe (350+ rooms, ranked 44th in Malaysia). 3rd place Bingo CTF 2025 out of 50 teams. CPTS and CEHv13 certified. Currently completing Bachelor of Computer Science (Cybersecurity) at UNITEN with 3.80 GPA.
 
