@@ -149,7 +149,6 @@ _Full repo list: [aimansam GitHub](https://github.com/aimansam?tab=repositories)
 ![Profile views](https://komarev.com/ghpvc/?username=aimansam&label=PROFILE+VIEWS&color=4A0E16&style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/aimansam?style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/aimansam?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/aimansam/aimansam?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-1.98+-orange?logo=rust&logoColor=white)
 
