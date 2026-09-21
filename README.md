@@ -64,7 +64,7 @@ Currently focused on:
 
 | Project | Description |
 |---------|-------------|
-| [divideCTF](https://github.com/aimansam/divideCTF) | Collection of 10 self-contained web security CTF challenges — SQLi, XSS, access control, file handling, auth flaws, logic vulns. Docker Compose for local practice. |
+| [divideCTF](https://github.com/aimansam/divideCTF-docker) | Collection of 10 self-contained web security CTF challenges — SQLi, XSS, access control, file handling, auth flaws, logic vulns. Docker Compose for local practice. |
 | [divideCTF-recipe](https://github.com/aimansam/divideCTF-recipe) | Web CTF challenge — recipe-themed frontend with Cloudflare Pages Functions API and client-side access-control lessons. |
 | [divideCTF-santa](https://github.com/aimansam/divideCTF-santa) | divideCTF web challenge — holiday-themed web exploitation. |
 | [divideCTF-welcome](https://github.com/aimansam/divideCTF-welcome) | divideCTF welcome challenge — introductory web exploitation. |
