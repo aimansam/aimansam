@@ -28,8 +28,6 @@
 
 <br>
 
-### "OFF COURSE I TRUST NOBODY"
-
 </div>
 
 ---
