@@ -32,7 +32,7 @@
 
 ---
 
-## About
+## About Me
 
 Security-focused developer. I build tools that test security — both offensive and defensive — and break things to understand how they hold up. Zero trust by default.
 
