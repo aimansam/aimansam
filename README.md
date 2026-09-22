@@ -65,15 +65,6 @@ Currently focused on:
 | Project | Description |
 |---------|-------------|
 | [divideCTF-docker](https://github.com/aimansam/divideCTF-docker) | Collection of 10 self-contained web security CTF challenges — SQLi, XSS, access control, file handling, auth flaws, logic vulns. Docker Compose for local practice. |
-| [divideCTF-recipe](https://github.com/aimansam/divideCTF-recipe) | Web CTF challenge — recipe-themed frontend with Cloudflare Pages Functions API and client-side access-control lessons. |
-| [divideCTF-santa](https://github.com/aimansam/divideCTF-santa) | divideCTF web challenge — holiday-themed web exploitation. |
-| [divideCTF-welcome](https://github.com/aimansam/divideCTF-welcome) | divideCTF welcome challenge — introductory web exploitation. |
-| [divideCTF-echo](https://github.com/aimansam/divideCTF-echo) | divideCTF web challenge — reflection and parameter testing. |
-| [divideCTF-bluebox](https://github.com/aimansam/divideCTF-bluebox) | divideCTF web challenge — blue-team themed web exploitation. |
-| [divideCTF-lazydev1](https://github.com/aimansam/divideCTF-lazydev1) | divideCTF web challenge — developer workflow security. |
-| [divideCTF-lazydev2](https://github.com/aimansam/divideCTF-lazydev2) | divideCTF web challenge — developer workflow security (variant 2). |
-| [divideCTF-cybercorp1](https://github.com/aimansam/divideCTF-cybercorp1) | divideCTF web challenge — corporate environment web exploitation. |
-| [divideCTF-cybercorp2](https://github.com/aimansam/divideCTF-cybercorp2) | divideCTF web challenge — corporate environment web exploitation (variant 2). |
 | [web-vuln-scanner](https://github.com/aimansam/web-vuln-scanner) | Lightweight web vulnerability scanner — SQLi, XSS, path traversal, sensitive files, session handling. |
 
 ### 🟢 Security Tooling
