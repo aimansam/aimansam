@@ -65,7 +65,7 @@ Currently focused on:
 | Project | Description |
 |---------|-------------|
 | [divideCTF-docker](https://github.com/aimansam/divideCTF-docker) | Collection of 10 self-contained web security CTF challenges — SQLi, XSS, access control, file handling, auth flaws, logic vulns. Docker Compose for local practice. |
-| [web-vuln-scanner](https://github.com/aimansam/web-vuln-scanner) | Lightweight web vulnerability scanner — SQLi, XSS, path traversal, sensitive files, session handling. |
+| [durian](https://github.com/aimansam/durian) | Lightweight web vulnerability scanner — SQLi, XSS, path traversal, sensitive files, session handling. |
 
 ### 🟢 Security Tooling
 
