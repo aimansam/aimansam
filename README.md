@@ -57,7 +57,7 @@ Currently focused on:
 
 | Project | Description |
 |---------|-------------|
-| [opss-terconnect](https://github.com/aimansam/opss-terconnect) | Discord bot for remote command execution — authorized administrative control from Discord. |
+| [jebat](https://github.com/aimansam/jebat) | Discord bot for remote command execution — authorized administrative control from Discord. |
 | [badang](https://github.com/aimansam/badang) | EDR Evasion Research Toolkit — Rust. Windows syscall-level research, injection techniques, unhooking, API detection. For authorized security research. |
 
 ### 🟡 Web Security & CTF Challenges
