@@ -75,7 +75,7 @@ Currently focused on:
 | [packet-capture](https://github.com/aimansam/packet-capture) | Network packet capture and analyzer — raw sockets, capture, filter, analyze traffic. |
 | [port-scanner](https://github.com/aimansam/port-scanner) | Network port scanner — concurrent scanning, service detection, risk assessment. |
 | [password-auditor](https://github.com/aimansam/password-auditor) | Password security auditor — strength analysis, pattern detection, keyboard walks, entropy estimation. |
-| [pape-rojer](https://github.com/aimansam/pape-rojer) | Threat intelligence digest — stay updated on security news while you wait for coffee. |
+| [lekir](https://github.com/aimansam/lekir) | Threat intelligence digest — stay updated on security news while you wait for coffee. |
 
 ### 🔵 Platform & Infrastructure
 
